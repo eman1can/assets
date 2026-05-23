@@ -1,47 +1,33 @@
-CREATE TABLE m_lesson_drop_amount (
-    item_id INTEGER,
-    count   INTEGER,
-    weight  INTEGER
-);
+CREATE TABLE m_lesson_drop_amount (item_id INTEGER, count INTEGER, weight INTEGER);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 15, 25);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 16, 8);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 17, 8);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 18, 25);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 19, 8);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 20, 8);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 21, 11);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 22, 1);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 23, 1);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 24, 3);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 25, 1);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (1, 26, 1);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (2, 0, 810);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (2, 1, 100);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (2, 2, 75);
+INSERT INTO m_lesson_drop_amount (item_id, count, weight) VALUES (2, 3, 15);
 
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 15, 25);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 16, 8);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 17, 8);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 18, 25);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 19, 8);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 20, 8);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 21, 11);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 22, 1);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 23, 1);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 24, 3);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 25, 1);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (1, 26, 1);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (2, 0, 810);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (2, 1, 100);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (2, 2, 75);
-INSERT INTO m_lesson_item_drop_amount (item_id, count, weight) VALUES (2, 3, 15);
+CREATE TABLE m_lesson_skill_member_chance (position_id INTEGER PRIMARY KEY, weight INTEGER);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (1, 2400);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (2, 950);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (3, 950);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (4, 950);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (5, 950);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (6, 950);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (7, 950);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (8, 950);
+INSERT INTO m_lesson_skill_member_chance (position_id, weight) VALUES (9, 950);
 
-
-CREATE TABLE m_lesson_skill_member_chance (
-    position_id INTEGER PRIMARY KEY,
-    weight      INTEGER
-);
-
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (1, 2400);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (2, 950);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (3, 950);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (4, 950);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (5, 950);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (6, 950);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (7, 950);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (8, 950);
-INSERT INTO m_lesson_skill_member_chance (member_position_id, member_weight) VALUES (9, 950);
-
-CREATE TABLE m_lesson_skill_rarity (
-    rarity INTEGER PRIMARY KEY,
-    weight INTEGER
-);
-
+CREATE TABLE m_lesson_skill_rarity (rarity INTEGER PRIMARY KEY, weight INTEGER);
 INSERT INTO m_lesson_skill_rarity (rarity, weight) VALUES (0, 4000);
 INSERT INTO m_lesson_skill_rarity (rarity, weight) VALUES (1, 3000);
 INSERT INTO m_lesson_skill_rarity (rarity, weight) VALUES (2, 2000);
@@ -49,14 +35,7 @@ INSERT INTO m_lesson_skill_rarity (rarity, weight) VALUES (3, 750);
 INSERT INTO m_lesson_skill_rarity (rarity, weight) VALUES (4, 250);
 INSERT INTO m_lesson_skill_rarity (rarity, weight) VALUES (5, 100);
 
-CREATE TABLE m_lesson_skill_content (
-    skill_master_id  INTEGER PRIMARY KEY,
-    drop_type        INTEGER,
-    rarity           INTEGER,
-    lesson_menu_id_1 INTEGER,
-    lesson_menu_id_2 INTEGER
-);
-
+CREATE TABLE m_lesson_skill_content (skill_master_id  INTEGER PRIMARY KEY, drop_type INTEGER, rarity INTEGER, lesson_menu_id_1 INTEGER, lesson_menu_id_2 INTEGER);
 INSERT INTO m_lesson_skill_content (skill_master_id, drop_type, rarity, lesson_menu_id_1, lesson_menu_id_2) VALUES (30000046, 1, 3, 8, null);
 INSERT INTO m_lesson_skill_content (skill_master_id, drop_type, rarity, lesson_menu_id_1, lesson_menu_id_2) VALUES (30000047, 1, 3, 5, null);
 INSERT INTO m_lesson_skill_content (skill_master_id, drop_type, rarity, lesson_menu_id_1, lesson_menu_id_2) VALUES (30000048, 1, 3, 2, null);
