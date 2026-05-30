@@ -1,0 +1,52 @@
+{
+    "login_bonus_id": 1000004, // Game Release Login Bonus
+    "login_bonus_type": 1, // Normal Login Bonus
+    "background_id": 40001,
+    "login_bonus_handler": "limited_login_bonus",
+    "dot_under_text": "beginner_login_bonus",
+    "rewards": [
+        { // 50x Star Gems
+            "day": 1,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 50
+        }, { // 50x Star Gems
+            "day": 2,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 50
+        }, { // 50x Star Gems
+            "day": 3,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 50
+        }, { // 50x Star Gems
+            "day": 4,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 50
+        }, { // 50x Star Gems
+            "day": 5,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 50
+        }, { // 50x Star Gems
+            "day": 6,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 50
+        }, { // 150x Star Gems
+            "day": 7,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 150
+        }
+    ]
+}

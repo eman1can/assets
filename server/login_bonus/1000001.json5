@@ -1,0 +1,53 @@
+{
+    "login_bonus_id": 1000001, // Fresh Start Login Bonus (EOS Version)
+    "login_bonus_type": 1, // Normal Login Bonus
+    "background_id": 100100700, // Whiteboard Background
+    "whiteboard_texture_asset": ":7S",
+    "login_bonus_handler": "limited_login_bonus",
+    "dot_under_text": "beginner_login_bonus",
+    "rewards": [
+        { // 300k Gold
+            "day": 1,
+            "grade": 1,
+            "content_type": 10,
+            "content_id": 1200,
+            "content_amount": 300000
+        }, { // 1x SR Gacha Ticket
+            "day": 2,
+            "grade": 1,
+            "content_type": 9,
+            "content_id": 9002,
+            "content_amount": 1
+        }, { // 300k EXP
+            "day": 3,
+            "grade": 1,
+            "content_type": 4,
+            "content_id": 1100,
+            "content_amount": 300000
+        }, { // 1x Show Candy (100)
+            "day": 4,
+            "grade": 1,
+            "content_type": 17,
+            "content_id": 1301,
+            "content_amount": 1
+        }, { // 50x Star Gems
+            "day": 5,
+            "grade": 1,
+            "content_type": 1,
+            "content_id": 0,
+            "content_amount": 50
+        }, { // 7x Memory Keys
+            "day": 6,
+            "grade": 1,
+            "content_type": 30,
+            "content_id": 17001,
+            "content_amount": 7
+        }, { // 1x UR Gacha Ticket
+            "day": 7,
+            "grade": 1,
+            "content_type": 9,
+            "content_id": 9015,
+            "content_amount": 1
+        }
+    ]
+}

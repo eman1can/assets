@@ -1,0 +1,8 @@
+{
+    "login_bonus_id": 1000003,
+    "login_bonus_type": 5, // Birthday Login Bonus
+    "background_id": 0, // No Background
+    "login_bonus_handler": "birthday_login_bonus",
+    "login_bonus_handler_config": "random",
+    "rewards": [] // Rewards are calculated by handler for the specific member
+}

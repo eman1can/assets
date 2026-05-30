@@ -1,0 +1,53 @@
+{
+    "login_bonus_id": 1000005, // Fresh Start Login Bonus (Release Version)
+    "login_bonus_type": 1, // Normal Login Bonus
+    "background_id": 100100700, // Whiteboard Background
+    "whiteboard_texture_asset": ":7S",
+    "login_bonus_handler": "limited_login_bonus",
+    "dot_under_text": "beginner_login_bonus",
+    "rewards": [
+        { // 300k Gold
+            "day": 1,
+            "grade": 1,
+            "content_type": 10,
+            "content_id": 1200,
+            "content_amount": 300000
+        }, { // 3x Training Tickets
+            "day": 2,
+            "grade": 1,
+            "content_type": 16,
+            "content_id": 2200,
+            "content_amount": 3
+        }, { // 300k EXP
+            "day": 3,
+            "grade": 1,
+            "content_type": 4,
+            "content_id": 1100,
+            "content_amount": 300000
+        }, { // 3x Training Tickets
+            "day": 4,
+            "grade": 1,
+            "content_type": 16,
+            "content_id": 2200,
+            "content_amount": 3
+        }, { // 1x Show Candy (50)
+            "day": 5,
+            "grade": 1,
+            "content_type": 17,
+            "content_id": 1300,
+            "content_amount": 1
+        }, { // 3x Training Tickets
+            "day": 6,
+            "grade": 1,
+            "content_type": 16,
+            "content_id": 2200,
+            "content_amount": 3
+        }, { // 50x Idol Badges
+            "day": 7,
+            "grade": 1,
+            "content_type": 12,
+            "content_id": 1200,
+            "content_amount": 50
+        }
+    ]
+}
