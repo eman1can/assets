@@ -1,0 +1,794 @@
+[
+    {
+        "id": 30001,
+        "event_type": 1,
+        "release_order": 10000,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "%o:",
+        "banner_notice_l": ".'l"
+    },
+    {
+        "id": 30002,
+        "event_type": 1,
+        "release_order": 10001,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "r]\"",
+        "banner_notice_l": "tG~"
+    },
+    {
+        "id": 30003,
+        "event_type": 1,
+        "release_order": 10002,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "XSp",
+        "banner_notice_l": ".1!"
+    },
+    {
+        "id": 30004,
+        "event_type": 1,
+        "release_order": 10003,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "1lZ",
+        "banner_notice_l": "C&o"
+    },
+    {
+        "id": 30005,
+        "event_type": 1,
+        "release_order": 10004,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "EGk",
+        "banner_notice_l": "^Ep"
+    },
+    {
+        "id": 30006,
+        "event_type": 1,
+        "release_order": 10005,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "!{Q",
+        "banner_notice_l": "*E\\"
+    },
+    {
+        "id": 30007,
+        "event_type": 1,
+        "release_order": 10007,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "f{z",
+        "banner_notice_l": "o[("
+    },
+    {
+        "id": 30008,
+        "event_type": 1,
+        "release_order": 10009,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "b2&",
+        "banner_notice_l": "SH;"
+    },
+    {
+        "id": 30009,
+        "event_type": 1,
+        "release_order": 10011,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "7A6",
+        "banner_notice_l": "Dp4"
+    },
+    {
+        "id": 30010,
+        "event_type": 1,
+        "release_order": 10013,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "P(}",
+        "banner_notice_l": "eL{"
+    },
+    {
+        "id": 30011,
+        "event_type": 1,
+        "release_order": 10015,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "Wm:",
+        "banner_notice_l": "t$j"
+    },
+    {
+        "id": 30012,
+        "event_type": 1,
+        "release_order": 10017,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "P9{",
+        "banner_notice_l": "x{p"
+    },
+    {
+        "id": 30013,
+        "event_type": 1,
+        "release_order": 10019,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "KPz",
+        "banner_notice_l": "p@("
+    },
+    {
+        "id": 30014,
+        "event_type": 1,
+        "release_order": 10021,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "_0t",
+        "banner_notice_l": "ZB_"
+    },
+    {
+        "id": 30015,
+        "event_type": 1,
+        "release_order": 10023,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "#!~",
+        "banner_notice_l": "clU"
+    },
+    {
+        "id": 30016,
+        "event_type": 1,
+        "release_order": 10025,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "WYv",
+        "banner_notice_l": "}0+"
+    },
+    {
+        "id": 30017,
+        "event_type": 1,
+        "release_order": 10027,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "%*>",
+        "banner_notice_l": "otv"
+    },
+    {
+        "id": 30018,
+        "event_type": 1,
+        "release_order": 10029,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "sx(",
+        "banner_notice_l": "h<!"
+    },
+    {
+        "id": 30019,
+        "event_type": 1,
+        "release_order": 10031,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "~bu",
+        "banner_notice_l": "'\"M"
+    },
+    {
+        "id": 30020,
+        "event_type": 1,
+        "release_order": 10033,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "5-m",
+        "banner_notice_l": "t6,"
+    },
+    {
+        "id": 30021,
+        "event_type": 1,
+        "release_order": 10035,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "/n]",
+        "banner_notice_l": "T8/"
+    },
+    {
+        "id": 30022,
+        "event_type": 1,
+        "release_order": 10037,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "\"ai",
+        "banner_notice_l": "M@j"
+    },
+    {
+        "id": 30023,
+        "event_type": 1,
+        "release_order": 10039,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": ".S?",
+        "banner_notice_l": "Z5q"
+    },
+    {
+        "id": 30024,
+        "event_type": 1,
+        "release_order": 10041,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "Bel",
+        "banner_notice_l": "[#9"
+    },
+    {
+        "id": 30025,
+        "event_type": 1,
+        "release_order": 10043,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "_9f",
+        "banner_notice_l": "o&t"
+    },
+    {
+        "id": 30026,
+        "event_type": 1,
+        "release_order": 10045,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "ozJ",
+        "banner_notice_l": "xZV"
+    },
+    {
+        "id": 30027,
+        "event_type": 1,
+        "release_order": 10047,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "*;j",
+        "banner_notice_l": "jLX"
+    },
+    {
+        "id": 30028,
+        "event_type": 1,
+        "release_order": 10049,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "P0~",
+        "banner_notice_l": "W<+"
+    },
+    {
+        "id": 30029,
+        "event_type": 1,
+        "release_order": 10051,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "kR0",
+        "banner_notice_l": "m>#"
+    },
+    {
+        "id": 30030,
+        "event_type": 1,
+        "release_order": 10053,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "b6:",
+        "banner_notice_l": "^2["
+    },
+    {
+        "id": 30031,
+        "event_type": 1,
+        "release_order": 10055,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "h-%",
+        "banner_notice_l": "+rS"
+    },
+    {
+        "id": 30032,
+        "event_type": 1,
+        "release_order": 10057,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "n9n",
+        "banner_notice_l": "]LH"
+    },
+    {
+        "id": 30033,
+        "event_type": 1,
+        "release_order": 10059,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "[m$",
+        "banner_notice_l": "(M%"
+    },
+    {
+        "id": 30034,
+        "event_type": 1,
+        "release_order": 10061,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "6;2",
+        "banner_notice_l": "}?e"
+    },
+    {
+        "id": 30035,
+        "event_type": 1,
+        "release_order": 10063,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "mm|",
+        "banner_notice_l": "JY}"
+    },
+    {
+        "id": 30036,
+        "event_type": 1,
+        "release_order": 10065,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "LuQ",
+        "banner_notice_l": "_g?"
+    },
+    {
+        "id": 30037,
+        "event_type": 1,
+        "release_order": 10067,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "V0B",
+        "banner_notice_l": "[ps"
+    },
+    {
+        "id": 30038,
+        "event_type": 1,
+        "release_order": 10069,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "8['",
+        "banner_notice_l": "UKn"
+    },
+    {
+        "id": 30039,
+        "event_type": 1,
+        "release_order": 10071,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "=.!",
+        "banner_notice_l": "~>3"
+    },
+    {
+        "id": 30040,
+        "event_type": 1,
+        "release_order": 10073,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "5{N",
+        "banner_notice_l": "4&>"
+    },
+    {
+        "id": 30041,
+        "event_type": 1,
+        "release_order": 10075,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "C^Y",
+        "banner_notice_l": "}j]"
+    },
+    {
+        "id": 30042,
+        "event_type": 1,
+        "release_order": 10077,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "`z<",
+        "banner_notice_l": ")Zx"
+    },
+    {
+        "id": 30043,
+        "event_type": 1,
+        "release_order": 10079,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "[%<",
+        "banner_notice_l": "NXa"
+    },
+    {
+        "id": 30044,
+        "event_type": 1,
+        "release_order": 10081,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": ",eK",
+        "banner_notice_l": "}U#"
+    },
+    {
+        "id": 30045,
+        "event_type": 1,
+        "release_order": 10083,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "}:v",
+        "banner_notice_l": "@k4"
+    },
+    {
+        "id": 30046,
+        "event_type": 1,
+        "release_order": 10085,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": ";c<",
+        "banner_notice_l": "2<K"
+    },
+    {
+        "id": 30047,
+        "event_type": 1,
+        "release_order": 10087,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "R3)",
+        "banner_notice_l": "scE"
+    },
+    {
+        "id": 31001,
+        "event_type": 2,
+        "release_order": 10006,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "5!v",
+        "banner_notice_l": "o18"
+    },
+    {
+        "id": 31002,
+        "event_type": 2,
+        "release_order": 10008,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "TkL",
+        "banner_notice_l": "/tu"
+    },
+    {
+        "id": 31003,
+        "event_type": 2,
+        "release_order": 10010,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "cNg",
+        "banner_notice_l": "F1>"
+    },
+    {
+        "id": 31004,
+        "event_type": 2,
+        "release_order": 10012,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "q4\"",
+        "banner_notice_l": "V*>"
+    },
+    {
+        "id": 31005,
+        "event_type": 2,
+        "release_order": 10014,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "(?Q",
+        "banner_notice_l": "x~G"
+    },
+    {
+        "id": 31006,
+        "event_type": 2,
+        "release_order": 10016,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "1v=",
+        "banner_notice_l": "7+4"
+    },
+    {
+        "id": 31007,
+        "event_type": 2,
+        "release_order": 10018,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "NTQ",
+        "banner_notice_l": "ph*"
+    },
+    {
+        "id": 31008,
+        "event_type": 2,
+        "release_order": 10020,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "5%F",
+        "banner_notice_l": "(Ml"
+    },
+    {
+        "id": 31009,
+        "event_type": 2,
+        "release_order": 10022,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "uD`",
+        "banner_notice_l": "~U3"
+    },
+    {
+        "id": 31010,
+        "event_type": 2,
+        "release_order": 10024,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": ",ok",
+        "banner_notice_l": "92q"
+    },
+    {
+        "id": 31011,
+        "event_type": 2,
+        "release_order": 10026,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "Fd>",
+        "banner_notice_l": "m?Z"
+    },
+    {
+        "id": 31012,
+        "event_type": 2,
+        "release_order": 10028,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "b9t",
+        "banner_notice_l": ";~@"
+    },
+    {
+        "id": 31013,
+        "event_type": 2,
+        "release_order": 10030,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "3Im",
+        "banner_notice_l": "UHA"
+    },
+    {
+        "id": 31014,
+        "event_type": 2,
+        "release_order": 10032,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "xKB",
+        "banner_notice_l": "5Ez"
+    },
+    {
+        "id": 31015,
+        "event_type": 2,
+        "release_order": 10034,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "dpB",
+        "banner_notice_l": "SF5"
+    },
+    {
+        "id": 31016,
+        "event_type": 2,
+        "release_order": 10036,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "DH'",
+        "banner_notice_l": "_u9"
+    },
+    {
+        "id": 31017,
+        "event_type": 2,
+        "release_order": 10038,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "(\"P",
+        "banner_notice_l": "iO?"
+    },
+    {
+        "id": 31018,
+        "event_type": 2,
+        "release_order": 10040,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "AF~",
+        "banner_notice_l": "YyZ"
+    },
+    {
+        "id": 31019,
+        "event_type": 2,
+        "release_order": 10042,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "h0K",
+        "banner_notice_l": "/yD"
+    },
+    {
+        "id": 31020,
+        "event_type": 2,
+        "release_order": 10044,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "5Jr",
+        "banner_notice_l": "4cE"
+    },
+    {
+        "id": 31021,
+        "event_type": 2,
+        "release_order": 10046,
+        "available": false,
+        "gacha_master_id": null,
+        "banner_notice_s": "(P]",
+        "banner_notice_l": "!0a"
+    },
+    {
+        "id": 31022,
+        "event_type": 2,
+        "release_order": 10048,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "JSj",
+        "banner_notice_l": "Sy!"
+    },
+    {
+        "id": 31023,
+        "event_type": 2,
+        "release_order": 10050,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "E*\\",
+        "banner_notice_l": "\"69"
+    },
+    {
+        "id": 31024,
+        "event_type": 2,
+        "release_order": 10052,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "A$2",
+        "banner_notice_l": ")'E"
+    },
+    {
+        "id": 31025,
+        "event_type": 2,
+        "release_order": 10054,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "AKd",
+        "banner_notice_l": "\"U#"
+    },
+    {
+        "id": 31026,
+        "event_type": 2,
+        "release_order": 10056,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "1[\\",
+        "banner_notice_l": "@V<"
+    },
+    {
+        "id": 31027,
+        "event_type": 2,
+        "release_order": 10058,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "lT^",
+        "banner_notice_l": ".nV"
+    },
+    {
+        "id": 31028,
+        "event_type": 2,
+        "release_order": 10060,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "dx2",
+        "banner_notice_l": "m@H"
+    },
+    {
+        "id": 31029,
+        "event_type": 2,
+        "release_order": 10062,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "sD'",
+        "banner_notice_l": "j1P"
+    },
+    {
+        "id": 31030,
+        "event_type": 2,
+        "release_order": 10064,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "v<8",
+        "banner_notice_l": ");S"
+    },
+    {
+        "id": 31031,
+        "event_type": 2,
+        "release_order": 10066,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "pYr",
+        "banner_notice_l": "7dR"
+    },
+    {
+        "id": 31032,
+        "event_type": 2,
+        "release_order": 10068,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "+mR",
+        "banner_notice_l": "pOL"
+    },
+    {
+        "id": 31033,
+        "event_type": 2,
+        "release_order": 10070,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": ":c:",
+        "banner_notice_l": "+'x"
+    },
+    {
+        "id": 31034,
+        "event_type": 2,
+        "release_order": 10072,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "uWe",
+        "banner_notice_l": "*O|"
+    },
+    {
+        "id": 31035,
+        "event_type": 2,
+        "release_order": 10074,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": ",SO",
+        "banner_notice_l": "mAN"
+    },
+    {
+        "id": 31036,
+        "event_type": 2,
+        "release_order": 10076,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "VHy",
+        "banner_notice_l": "`}n"
+    },
+    {
+        "id": 31037,
+        "event_type": 2,
+        "release_order": 10078,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "9AK",
+        "banner_notice_l": "(|]"
+    },
+    {
+        "id": 31038,
+        "event_type": 2,
+        "release_order": 10080,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "V|_",
+        "banner_notice_l": "l@g"
+    },
+    {
+        "id": 31039,
+        "event_type": 2,
+        "release_order": 10082,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "AdX",
+        "banner_notice_l": "vH="
+    },
+    {
+        "id": 31040,
+        "event_type": 2,
+        "release_order": 10084,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "2>^",
+        "banner_notice_l": "-EO"
+    },
+    {
+        "id": 31041,
+        "event_type": 2,
+        "release_order": 10086,
+        "available": true,
+        "gacha_master_id": null,
+        "banner_notice_s": "4Ur",
+        "banner_notice_l": "O&r"
+    }
+]

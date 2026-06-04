@@ -1,0 +1,618 @@
+[
+    {
+        "id": 30001,
+        "event_type": 1,
+        "release_order": 10000,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30002,
+        "event_type": 1,
+        "release_order": 10001,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30003,
+        "event_type": 1,
+        "release_order": 10002,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30004,
+        "event_type": 1,
+        "release_order": 10003,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30005,
+        "event_type": 1,
+        "release_order": 10004,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30006,
+        "event_type": 1,
+        "release_order": 10005,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31001,
+        "event_type": 2,
+        "release_order": 10006,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30007,
+        "event_type": 1,
+        "release_order": 10007,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31002,
+        "event_type": 2,
+        "release_order": 10008,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30008,
+        "event_type": 1,
+        "release_order": 10009,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31003,
+        "event_type": 2,
+        "release_order": 10010,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30009,
+        "event_type": 1,
+        "release_order": 10011,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31004,
+        "event_type": 2,
+        "release_order": 10012,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30010,
+        "event_type": 1,
+        "release_order": 10013,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31005,
+        "event_type": 2,
+        "release_order": 10014,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30011,
+        "event_type": 1,
+        "release_order": 10015,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31006,
+        "event_type": 2,
+        "release_order": 10016,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30012,
+        "event_type": 1,
+        "release_order": 10017,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31007,
+        "event_type": 2,
+        "release_order": 10018,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30013,
+        "event_type": 1,
+        "release_order": 10019,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31008,
+        "event_type": 2,
+        "release_order": 10020,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30014,
+        "event_type": 1,
+        "release_order": 10021,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31009,
+        "event_type": 2,
+        "release_order": 10022,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30015,
+        "event_type": 1,
+        "release_order": 10023,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31010,
+        "event_type": 2,
+        "release_order": 10024,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30016,
+        "event_type": 1,
+        "release_order": 10025,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31011,
+        "event_type": 2,
+        "release_order": 10026,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30017,
+        "event_type": 1,
+        "release_order": 10027,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31012,
+        "event_type": 2,
+        "release_order": 10028,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30018,
+        "event_type": 1,
+        "release_order": 10029,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31013,
+        "event_type": 2,
+        "release_order": 10030,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30019,
+        "event_type": 1,
+        "release_order": 10031,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31014,
+        "event_type": 2,
+        "release_order": 10032,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30020,
+        "event_type": 1,
+        "release_order": 10033,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31015,
+        "event_type": 2,
+        "release_order": 10034,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30021,
+        "event_type": 1,
+        "release_order": 10035,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31016,
+        "event_type": 2,
+        "release_order": 10036,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30022,
+        "event_type": 1,
+        "release_order": 10037,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31017,
+        "event_type": 2,
+        "release_order": 10038,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30023,
+        "event_type": 1,
+        "release_order": 10039,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31018,
+        "event_type": 2,
+        "release_order": 10040,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30024,
+        "event_type": 1,
+        "release_order": 10041,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31019,
+        "event_type": 2,
+        "release_order": 10042,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30025,
+        "event_type": 1,
+        "release_order": 10043,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31020,
+        "event_type": 2,
+        "release_order": 10044,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30026,
+        "event_type": 1,
+        "release_order": 10045,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31021,
+        "event_type": 2,
+        "release_order": 10046,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30027,
+        "event_type": 1,
+        "release_order": 10047,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31022,
+        "event_type": 2,
+        "release_order": 10048,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30028,
+        "event_type": 1,
+        "release_order": 10049,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31023,
+        "event_type": 2,
+        "release_order": 10050,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30029,
+        "event_type": 1,
+        "release_order": 10051,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31024,
+        "event_type": 2,
+        "release_order": 10052,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30030,
+        "event_type": 1,
+        "release_order": 10053,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31025,
+        "event_type": 2,
+        "release_order": 10054,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30031,
+        "event_type": 1,
+        "release_order": 10055,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31026,
+        "event_type": 2,
+        "release_order": 10056,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30032,
+        "event_type": 1,
+        "release_order": 10057,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31027,
+        "event_type": 2,
+        "release_order": 10058,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30033,
+        "event_type": 1,
+        "release_order": 10059,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31028,
+        "event_type": 2,
+        "release_order": 10060,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30034,
+        "event_type": 1,
+        "release_order": 10061,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31029,
+        "event_type": 2,
+        "release_order": 10062,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30035,
+        "event_type": 1,
+        "release_order": 10063,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31030,
+        "event_type": 2,
+        "release_order": 10064,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30036,
+        "event_type": 1,
+        "release_order": 10065,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31031,
+        "event_type": 2,
+        "release_order": 10066,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30037,
+        "event_type": 1,
+        "release_order": 10067,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31032,
+        "event_type": 2,
+        "release_order": 10068,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30038,
+        "event_type": 1,
+        "release_order": 10069,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31033,
+        "event_type": 2,
+        "release_order": 10070,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30039,
+        "event_type": 1,
+        "release_order": 10071,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31034,
+        "event_type": 2,
+        "release_order": 10072,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30040,
+        "event_type": 1,
+        "release_order": 10073,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31035,
+        "event_type": 2,
+        "release_order": 10074,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30041,
+        "event_type": 1,
+        "release_order": 10075,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31036,
+        "event_type": 2,
+        "release_order": 10076,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30042,
+        "event_type": 1,
+        "release_order": 10077,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31037,
+        "event_type": 2,
+        "release_order": 10078,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30043,
+        "event_type": 1,
+        "release_order": 10079,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31038,
+        "event_type": 2,
+        "release_order": 10080,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30044,
+        "event_type": 1,
+        "release_order": 10081,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31039,
+        "event_type": 2,
+        "release_order": 10082,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30045,
+        "event_type": 1,
+        "release_order": 10083,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31040,
+        "event_type": 2,
+        "release_order": 10084,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30046,
+        "event_type": 1,
+        "release_order": 10085,
+        "available": 0,
+        "gacha_master_id": null
+    },
+    {
+        "id": 31041,
+        "event_type": 2,
+        "release_order": 10086,
+        "available": 1,
+        "gacha_master_id": null
+    },
+    {
+        "id": 30047,
+        "event_type": 1,
+        "release_order": 10087,
+        "available": 0,
+        "gacha_master_id": null
+    }
+]

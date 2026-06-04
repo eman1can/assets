@@ -1,0 +1,554 @@
+[
+    {
+        "id": 31001,
+        "title": "m.event_marathon_title_31001",
+        "banner_notice_l": ".'l",
+        "banner_notice_s": "%o:",
+        "booster_item_id": 15001,
+        "title_image_asset_path": "?0=",
+        "background_image_asset_path": ":Y",
+        "board_base_image_path": "+6I",
+        "board_deco_image_path": "br{",
+        "bgm_sheet_name": "bgm_0024",
+        "rule_description_pages_asset_path": [
+            "dE?",
+            "QN(",
+            "&K)",
+            "b@D"
+        ],
+        "board_items": [
+            [
+                {
+                    "type": 1,
+                    "position": 1,
+                    "add_story_number": 0,
+                    "priority": 0,
+                    "image_thumbnail_asset_path": "c06"
+                },
+                {
+                    "type": 1,
+                    "position": 9,
+                    "add_story_number": 0,
+                    "priority": 0,
+                    "image_thumbnail_asset_path": "28L"
+                },
+                {
+                    "type": 1,
+                    "position": 9,
+                    "add_story_number": 0,
+                    "priority": 0,
+                    "image_thumbnail_asset_path": "q*O"
+                },
+                {
+                    "type": 2,
+                    "position": 1,
+                    "add_story_number": 1,
+                    "priority": 1,
+                    "image_thumbnail_asset_path": "P44"
+                },
+                {
+                    "type": 2,
+                    "position": 2,
+                    "add_story_number": 2,
+                    "priority": 2,
+                    "image_thumbnail_asset_path": "M32"
+                },
+                {
+                    "type": 2,
+                    "position": 3,
+                    "add_story_number": 3,
+                    "priority": 3,
+                    "image_thumbnail_asset_path": "*.x"
+                },
+                {
+                    "type": 2,
+                    "position": 4,
+                    "add_story_number": 4,
+                    "priority": 4,
+                    "image_thumbnail_asset_path": "8R$"
+                },
+                {
+                    "type": 2,
+                    "position": 6,
+                    "add_story_number": 5,
+                    "priority": 5,
+                    "image_thumbnail_asset_path": "r}}"
+                },
+                {
+                    "type": 2,
+                    "position": 7,
+                    "add_story_number": 6,
+                    "priority": 6,
+                    "image_thumbnail_asset_path": "iWh"
+                },
+                {
+                    "type": 2,
+                    "position": 5,
+                    "add_story_number": 7,
+                    "priority": 7,
+                    "image_thumbnail_asset_path": ":\\L"
+                }
+            ]
+        ]
+    },
+    {
+        "id": 31002,
+        "title": "m.event_marathon_title_31002",
+        "banner_notice_l": "tG~",
+        "banner_notice_s": "r]\"",
+        "booster_item_id": 15901,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31003,
+        "title": "m.event_marathon_title_31003",
+        "banner_notice_l": ".1!",
+        "banner_notice_s": "XSp",
+        "booster_item_id": 15002,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31004,
+        "title": "m.event_marathon_title_31004",
+        "banner_notice_l": "C&o",
+        "banner_notice_s": "1lZ",
+        "booster_item_id": 15003,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31005,
+        "title": "m.event_marathon_title_31005",
+        "banner_notice_l": "^Ep",
+        "banner_notice_s": "EGk",
+        "booster_item_id": 15004,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31006,
+        "title": "m.event_marathon_title_31006",
+        "banner_notice_l": "*E\\",
+        "banner_notice_s": "!{Q",
+        "booster_item_id": 15005,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31007,
+        "title": "m.event_marathon_title_31007",
+        "banner_notice_l": "o[(",
+        "banner_notice_s": "f{z",
+        "booster_item_id": 15006,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31008,
+        "title": "m.event_marathon_title_31008",
+        "banner_notice_l": "SH;",
+        "banner_notice_s": "b2&",
+        "booster_item_id": 15007,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31009,
+        "title": "m.event_marathon_title_31009",
+        "banner_notice_l": "Dp4",
+        "banner_notice_s": "7A6",
+        "booster_item_id": 15008,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31010,
+        "title": "m.event_marathon_title_31010",
+        "banner_notice_l": "eL{",
+        "banner_notice_s": "P(}",
+        "booster_item_id": 15009,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31011,
+        "title": "m.event_marathon_title_31011",
+        "banner_notice_l": "t$j",
+        "banner_notice_s": "Wm:",
+        "booster_item_id": 15010,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31012,
+        "title": "m.event_marathon_title_31012",
+        "banner_notice_l": "x{p",
+        "banner_notice_s": "P9{",
+        "booster_item_id": 15011,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31013,
+        "title": "m.event_marathon_title_31013",
+        "banner_notice_l": "p@(",
+        "banner_notice_s": "KPz",
+        "booster_item_id": 15012,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31014,
+        "title": "m.event_marathon_title_31014",
+        "banner_notice_l": "ZB_",
+        "banner_notice_s": "_0t",
+        "booster_item_id": 15013,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31015,
+        "title": "m.event_marathon_title_31015",
+        "banner_notice_l": "clU",
+        "banner_notice_s": "#!~",
+        "booster_item_id": 15014,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31016,
+        "title": "m.event_marathon_title_31016",
+        "banner_notice_l": "}0+",
+        "banner_notice_s": "WYv",
+        "booster_item_id": 15015,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31017,
+        "title": "m.event_marathon_title_31017",
+        "banner_notice_l": "otv",
+        "banner_notice_s": "%*>",
+        "booster_item_id": 15016,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31018,
+        "title": "m.event_marathon_title_31018",
+        "banner_notice_l": "h<!",
+        "banner_notice_s": "sx(",
+        "booster_item_id": 15017,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31019,
+        "title": "m.event_marathon_title_31019",
+        "banner_notice_l": "'\"M",
+        "banner_notice_s": "~bu",
+        "booster_item_id": 15018,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31020,
+        "title": "m.event_marathon_title_31020",
+        "banner_notice_l": "t6,",
+        "banner_notice_s": "5-m",
+        "booster_item_id": 15019,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31021,
+        "title": "m.event_marathon_title_31021",
+        "banner_notice_l": "T8/",
+        "banner_notice_s": "/n]",
+        "booster_item_id": 15020,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31022,
+        "title": "m.event_marathon_title_31022",
+        "banner_notice_l": "M@j",
+        "banner_notice_s": "\"ai",
+        "booster_item_id": 15021,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31023,
+        "title": "m.event_marathon_title_31023",
+        "banner_notice_l": "Z5q",
+        "banner_notice_s": ".S?",
+        "booster_item_id": 15022,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31024,
+        "title": "m.event_marathon_title_31024",
+        "banner_notice_l": "[#9",
+        "banner_notice_s": "Bel",
+        "booster_item_id": 15023,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31025,
+        "title": "m.event_marathon_title_31025",
+        "banner_notice_l": "o&t",
+        "banner_notice_s": "_9f",
+        "booster_item_id": 15024,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31026,
+        "title": "m.event_marathon_title_31026",
+        "banner_notice_l": "xZV",
+        "banner_notice_s": "ozJ",
+        "booster_item_id": 15025,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31027,
+        "title": "m.event_marathon_title_31027",
+        "banner_notice_l": "jLX",
+        "banner_notice_s": "*;j",
+        "booster_item_id": 15026,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31028,
+        "title": "m.event_marathon_title_31028",
+        "banner_notice_l": "W<+",
+        "banner_notice_s": "P0~",
+        "booster_item_id": 15027,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31029,
+        "title": "m.event_marathon_title_31029",
+        "banner_notice_l": "m>#",
+        "banner_notice_s": "kR0",
+        "booster_item_id": 15028,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31030,
+        "title": "m.event_marathon_title_31030",
+        "banner_notice_l": "^2[",
+        "banner_notice_s": "b6:",
+        "booster_item_id": 15029,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31031,
+        "title": "m.event_marathon_title_31031",
+        "banner_notice_l": "+rS",
+        "banner_notice_s": "h-%",
+        "booster_item_id": 15030,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31032,
+        "title": "m.event_marathon_title_31032",
+        "banner_notice_l": "]LH",
+        "banner_notice_s": "n9n",
+        "booster_item_id": 15031,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31033,
+        "title": "m.event_marathon_title_31033",
+        "banner_notice_l": "(M%",
+        "banner_notice_s": "[m$",
+        "booster_item_id": 15032,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31034,
+        "title": "m.event_marathon_title_31034",
+        "banner_notice_l": "}?e",
+        "banner_notice_s": "6;2",
+        "booster_item_id": 15033,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31035,
+        "title": "m.event_marathon_title_31035",
+        "banner_notice_l": "JY}",
+        "banner_notice_s": "mm|",
+        "booster_item_id": 15034,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31036,
+        "title": "m.event_marathon_title_31036",
+        "banner_notice_l": "_g?",
+        "banner_notice_s": "LuQ",
+        "booster_item_id": 15035,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31037,
+        "title": "m.event_marathon_title_31037",
+        "banner_notice_l": "[ps",
+        "banner_notice_s": "V0B",
+        "booster_item_id": 15036,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31038,
+        "title": "m.event_marathon_title_31038",
+        "banner_notice_l": "UKn",
+        "banner_notice_s": "8['",
+        "booster_item_id": 15037,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31039,
+        "title": "m.event_marathon_title_31039",
+        "banner_notice_l": "~>3",
+        "banner_notice_s": "=.!",
+        "booster_item_id": 15038,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31040,
+        "title": "m.event_marathon_title_31040",
+        "banner_notice_l": "4&>",
+        "banner_notice_s": "5{N",
+        "booster_item_id": 15039,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31041,
+        "title": "m.event_marathon_title_31041",
+        "banner_notice_l": "}j]",
+        "banner_notice_s": "C^Y",
+        "booster_item_id": 15040,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31042,
+        "title": "m.event_marathon_title_31042",
+        "banner_notice_l": ")Zx",
+        "banner_notice_s": "`z<",
+        "booster_item_id": 15041,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31043,
+        "title": "m.event_marathon_title_31043",
+        "banner_notice_l": "NXa",
+        "banner_notice_s": "[%<",
+        "booster_item_id": 15042,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31044,
+        "title": "m.event_marathon_title_31044",
+        "banner_notice_l": "}U#",
+        "banner_notice_s": ",eK",
+        "booster_item_id": 15043,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31045,
+        "title": "m.event_marathon_title_31045",
+        "banner_notice_l": "@k4",
+        "banner_notice_s": "}:v",
+        "booster_item_id": 15044,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31046,
+        "title": "m.event_marathon_title_31046",
+        "banner_notice_l": "2<K",
+        "banner_notice_s": ";c<",
+        "booster_item_id": 15045,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    },
+    {
+        "id": 31047,
+        "title": "m.event_marathon_title_31047",
+        "banner_notice_l": "scE",
+        "banner_notice_s": "R3)",
+        "booster_item_id": 15046,
+        "title_image_asset_path": null,
+        "background_image_asset_path": null,
+        "bgm_sheet_name": null
+    }
+]
